@@ -14,3 +14,12 @@ Reproducible R pipeline and meta-analytic workflow for identifying consensus tra
 
 ## Archival & Citation
 
+This release (`v1.0.0`) of the 5-cohort IBD microarray transcriptomic meta-analysis pipeline is archived on Zenodo:
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24394025.svg)](https://doi.org/10.5281/zenodo.24394025)
+
+**DOI:** https://doi.org/10.5281/zenodo.24394025
+
+### Suggested Citation
+
+Akala, I. M. (2026). *Enteric Epithelial Transcriptomic Meta-Analysis (5-Cohort IBD)* (v1.0.0) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.24394025

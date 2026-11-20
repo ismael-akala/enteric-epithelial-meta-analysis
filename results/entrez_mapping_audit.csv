@@ -1,0 +1,4 @@
+"Gene_Set","Input_Unique_Symbols","Mapped_Unique_Entrez_Universe","Unmapped_Symbols","Percent_Symbols_Mapped"
+"Eligible_Background_Intersection",17857,16730,1130,93.67
+"Upregulated_Consensus_DEGs",446,439,7,98.43
+"Downregulated_Consensus_DEGs",320,306,14,95.62
